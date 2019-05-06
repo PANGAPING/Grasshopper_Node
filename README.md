@@ -1,2 +1,2 @@
 # Grasshopper_Node
-Nodes about grasshopper programming.
+Notes about grasshopper programming.
